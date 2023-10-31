@@ -1,2 +1,2 @@
 # NinaPro
-1. 活动段提取  activeSegmentExtraction.py
+1. 活动段提取|activeSegmentExtraction.py
